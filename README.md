@@ -1,1 +1,2 @@
-# calculator-2.0
+# CALCULATOR
+used in HTML, css, javascript
